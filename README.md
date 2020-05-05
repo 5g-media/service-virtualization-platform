@@ -28,7 +28,7 @@ The *minimum system* requirements to install the 5G-MEDIA Service Virtualization
 | **MEMORY** | 35 GB RAM |
 | **HARD DISK** | 250 GB available | 
 
-The 5G-MEDIA Service Virtualization Platform could be installed in either a Linux bare metal server or (Linux) Virtual Machines. In case that you prefer Virtual Machines, you can install the components of the Service Virtualization Platform in different Virtual Machines ensuring that there is network connection among them. For exmple, in the frame of the project we have installed them in OpenStack-based Virtual Machines using a common management network.
+The 5G-MEDIA Service Virtualization Platform could be installed in either a Linux bare metal server or (Linux) Virtual Machines. In case that you prefer Virtual Machines, you can install the components of the Service Virtualization Platform in different Virtual Machines ensuring that there is network connection among them. For example, in the frame of the project we have installed them in different OpenStack-based Virtual Machines using a common management network.
 
 
 ## Acknowledgements
